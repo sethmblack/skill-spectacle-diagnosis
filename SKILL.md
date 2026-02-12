@@ -1,10 +1,9 @@
 ---
 name: spectacle-diagnosis
-description: Analyze any situation to identify where authentic experience has been
-  replaced by representation.
+description: Analyze any situation to identify where authentic experience has been replaced by representation.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - spectacle-diagnosis
