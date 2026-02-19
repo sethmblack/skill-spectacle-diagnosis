@@ -3,7 +3,7 @@ name: spectacle-diagnosis
 description: Analyze any situation to identify where authentic experience has been replaced by representation.
 license: MIT
 metadata:
-  version: 1.0.5027
+  version: 1.0.5028
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
